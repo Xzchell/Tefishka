@@ -71,6 +71,7 @@
 #ava{
   height: 100vh;
   background-color: #2C2E3D;
+  overflow-y: hidden;
 }
 h1{
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
